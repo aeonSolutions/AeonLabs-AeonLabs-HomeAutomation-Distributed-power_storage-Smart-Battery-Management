@@ -14,6 +14,11 @@
 
 <br />
 
+<p align="right">
+ <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
+Last update: 03-05-2024
+</p>
+
 # Smart Battery Management 
 
 This is a simple PCB for a direct fit on commercially available [blue solar cell tiles](https://s.click.aliexpress.com/e/_DCnJW0V). This Smart Device is intended to connected with the [Single Solar Cell with one 18650 Battery Storage](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-18650-battery-storage/blob/main/README.md) and also the [Single Solar Cell with two 18650 as Battery Storage](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-2X-18650-battery-storage/blob/main/README.md) to do active solar cell tile and battery management up to 8 solar tiles conencted together intended for indoor usage. In particular to be installed on the top or downside of transparent glass windows at a home or office. This PCB, when assembled with a blue solar cell tile, can be used to power a low voltage 4.2V indoor illumination network using ultra-low power micro LED strips.  For instance, [this one](https://s.click.aliexpress.com/e/_DCKg9xJ) sold on AliExpress.   
